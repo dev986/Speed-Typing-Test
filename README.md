@@ -1,4 +1,4 @@
-# speedTyping
+# Typing Speed Test
 Native JavaScript plugin to test your Typing speed.
 
-#### [Demo](https://awran5.github.io/speedTyping/)
+#### Typing Speed Test [Demo](https://dev986.github.io/Speed-Typing-Test/)
